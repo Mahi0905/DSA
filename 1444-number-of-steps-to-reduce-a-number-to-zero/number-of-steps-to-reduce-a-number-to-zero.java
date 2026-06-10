@@ -12,7 +12,7 @@ class Solution {
                     num = num -1;
                     steps ++;
                 }
-            }
+            }   
             return steps;
 
 
